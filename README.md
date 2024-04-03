@@ -1,9 +1,11 @@
-# flutter_alief_mpl2
+# Dokumentasi Mata Kuliah Mobile Programming Lanjut dengan Flutter
 
-A new Flutter project.
+Selamat datang di repository dokumentasi pembelajaran mata kuliah Mobile Programming Lanjut menggunakan Flutter di STMIK Widya Utama. Repository ini dibuat untuk menyimpan berbagai materi pembelajaran, tugas, dan proyek yang berkaitan dengan mata kuliah tersebut.
 
-## Getting Started
-
+## Identitas
+Nama  : Alief Wahyulianto
+NIM   : STI202102403
+KODE  : #111
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
