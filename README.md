@@ -3,7 +3,7 @@
 Selamat datang di repository dokumentasi pembelajaran mata kuliah Mobile Programming Lanjut menggunakan Flutter di STMIK Widya Utama. Repository ini dibuat untuk menyimpan berbagai materi pembelajaran, tugas, dan proyek yang berkaitan dengan mata kuliah tersebut.
 
 ## Identitas
-Nama  : Alief Wahyulianto
+Nama  : Alief Wahyulianto  
 NIM   : STI202102403
 KODE  : #111
 This project is a starting point for a Flutter application.
